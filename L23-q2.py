@@ -6,3 +6,4 @@ for i in range(22):
     a[i][i]=1
 
 print(a.trace())
+print("Salutare")
